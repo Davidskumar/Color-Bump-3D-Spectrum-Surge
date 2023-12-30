@@ -1,5 +1,5 @@
 # ColourBumpRep
-An replica of the original Colour Bump Game with 2 Playable a levels and prefabs of more levels that are customizable
+An replica of the original Colour Bump Game with two playable levels and prefabs of more levels that are customizable.
 
 Objective:
 --------------
