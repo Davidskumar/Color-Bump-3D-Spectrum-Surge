@@ -10,7 +10,7 @@ Screenshot & Demo Video
 -----------------------
 Demo:
 
-![asciicast](DemoVideo/DemoVidep.gif)
+![asciicast](DemoImgs/ColourBumpRep.gif)
 
 <img alt="Main UI" src="https://github.com/Davidskumar/ColourBumpRep/blob/main/DemoImgs/UIStart.png" width="500"/>
 
