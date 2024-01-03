@@ -1,4 +1,4 @@
-# ColourBumpRep
+# ColourBump 3D
 An replica of the original Colour Bump Game with two playable levels and prefabs of more levels that are customizable.
 
 Objective:
