@@ -1,4 +1,4 @@
-# ColourBump 3D
+# Color Bump 3D: Spectrum Surge
 An replica of the original Colour Bump Game with two playable levels and prefabs of more levels that are customizable.
 
 Objective:
